@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "渦",
+  "base_artist": "iri",
+  "createdAt": "2026-02-28T15:51:07.857905Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "渦",
+      "artist": "Porno Graffitti",
+      "has_synced": false,
+      "path": "select/01_渦_Porno_Graffitti.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "渦",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/02_渦_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "渦",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/03_渦_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "渦",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/04_渦_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "渦",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/05_渦_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "渦",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/06_渦_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "渦 (Helix Track)",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/07_渦_(Helix_Track)_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "渦",
+      "artist": "iri",
+      "has_synced": false,
+      "path": "select/pl_01_渦_iri.txt"
+    }
+  ]
+}
